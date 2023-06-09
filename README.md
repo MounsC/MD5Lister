@@ -1,9 +1,9 @@
 # MD5 Lister
 
-This tool lists the files in a folder in the following format: 
+This tool lists the files in a folder in the following format:
 
+example of : "fileHashes.json"
 ```
-example of : "fileHshes.json"
 [
   {
     "Path": "File.csv",
@@ -14,6 +14,7 @@ example of : "fileHshes.json"
 
 The path initially entered is saved in a json file:
 
+exemple of : "path.json"
 ```
 { "Path": "C:\Path\"}
 ```
