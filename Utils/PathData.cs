@@ -1,4 +1,4 @@
-﻿namespace Md5Hasher.Utils
+﻿namespace MD5Lister.Utils
 {
     class PathData
     {

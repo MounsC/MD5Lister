@@ -1,14 +1,5 @@
-﻿namespace Md5Hasher.Utils
+﻿namespace MD5Lister.Utils
 {
-    class FileHashes
-    {
-        public List<FileHash> Files { get; set; }
-        public FileHashes()
-        {
-            Files = new List<FileHash>();
-        }
-    }
-
     class FileHash
     {
         public string Path { get; set; }
